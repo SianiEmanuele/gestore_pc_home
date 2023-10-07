@@ -1,0 +1,37 @@
+1 0 admin00 pass_admin
+1 0 admin2 password
+0 0 andre_07 pass_andre
+0 2 ema ema123
+2050.94
+Config ema 3
+1 1200.00 1
+GTX 3080 TI 8 GB
+2 249.99 1
+AMD Ryzen 3
+3 329.99 1
+corsair vengeance 32 gb
+4 89.99 1
+ASUS Prime H510M
+5 59.99 1
+Barracuda 1TB
+6 30.99 1
+Kingston A400 SATA 256 GB
+7 89.99 1
+Corsair 275R
+2184.94
+config ema 2 
+1 1200.00 1
+GTX 3080 TI 8 GB
+2 289.99 1
+AMD Ryzen 7
+3 329.99 1
+corsair vengeance 32 gb
+4 79.99 1
+Asus rog X270
+5 119.99 1
+Barracuda 4TB
+6 79.99 1
+Sabrent M2NVME 512GB
+7 84.99 1
+NZXT H510 MidTower
+0 0 giovanni Gio123
