@@ -1,0 +1,32 @@
+2149.99
+Config Gaming
+1 1200.00 1
+GTX 3080 TI 8 GB
+2 200.99 1
+i5 6500k
+3 329.99 1
+corsair vengeance 32 gb
+4 59.99 1
+asus Z-P970
+5 59.99 1
+Barracuda 1TB
+6 79.99 1
+Sabrent M2NVME 512GB
+7 79.99 1
+Thermaltake Midtower
+1599.99
+Config Gaming 2
+1 599.99 1
+Gtx 1080TI 8GB
+2 200.99 1
+i5 6500k
+3 329.99 1
+corsair vengeance 32 gb
+4 179.99 1
+ASUS ROG STRIX B550-F
+5 119.99 1
+Barracuda 4TB
+6 89.99 1
+Samsung 870 QVO SATA 1TB
+7 84.99 1
+NZXT H510 MidTower
